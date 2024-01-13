@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-<img align="right" height="180" src="https://github.com/Oscarnyo/Oscarnyo/assets/81134395/b81abb3f-bf52-466b-ac21-5902f20b5177"  />
+<img align="right" height="150" src="https://github.com/Oscarnyo/Oscarnyo/assets/81134395/b81abb3f-bf52-466b-ac21-5902f20b5177"  />
 
 - 🌱 I’m currently learning **React JS and NEXT JS** 
 
