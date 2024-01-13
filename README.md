@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">A passionate Computer Science student in UOW Malaysia KDU</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&color=B3B3B3&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Oscar+Nyo+!;" />
+</h1>
+<h3 align="center">A passionate computer science student in UOW Malaysia KDU</h3>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-- 🌱 I’m currently learning **React JS and NEXT JS**
+<img align="right" height="180" src="https://github.com/Oscarnyo/Oscarnyo/assets/81134395/b81abb3f-bf52-466b-ac21-5902f20b5177"  />
+
+- 🌱 I’m currently learning **React JS and NEXT JS** 
 
 - 👨‍💻 My Portfolio: [https://oscarnyo.github.io/my-portfolio/](https://oscarnyo.github.io/my-portfolio/)
 
