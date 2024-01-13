@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A passionate Computer Science student in UOW Malaysia KDU</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarnyo&label=Profile%20views&color=0e75b6&style=flat" alt="oscarnyo" /> </p>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 - 🌱 I’m currently learning **React JS and NEXT JS**
 
