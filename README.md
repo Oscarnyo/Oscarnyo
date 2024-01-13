@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS and NEXT JS**
 
-- 👨‍💻 My portfolio: [https://oscarnyo.github.io/my-portfolio/](https://oscarnyo.github.io/my-portfolio/)
+- 👨‍💻 My Portfolio: [https://oscarnyo.github.io/my-portfolio/](https://oscarnyo.github.io/my-portfolio/)
 
 - 📫 How to reach me **oscarnyo728@gmail.com**
 
@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarnyo&show_icons=true&theme=onedark&locale=en&layout=compact" alt="oscarnyo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarnyo&show_icons=true&theme=dark&locale=en" alt="oscarnyo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarnyo&show_icons=true&theme=onedark&locale=en" alt="oscarnyo" /></p>
