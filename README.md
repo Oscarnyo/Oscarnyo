@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React JS and NEXT JS**
 
-- 👨‍💻 All of my projects are available at [https://oscarnyo.github.io/my-portfolio/](https://oscarnyo.github.io/my-portfolio/)
+- 👨‍💻 My portfolio: [https://oscarnyo.github.io/my-portfolio/](https://oscarnyo.github.io/my-portfolio/)
 
 - 📫 How to reach me **oscarnyo728@gmail.com**
 
