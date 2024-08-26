@@ -7,7 +7,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-- 🌱 I’m currently learning **React JS and NEXT JS** 
+- 🌱 I’m currently learning **React Native** 
 
 - 👨‍💻 My Portfolio: [https://oscarnyo.github.io/my-portfolio/](https://oscarnyo.github.io/my-portfolio/)
 
