@@ -25,6 +25,6 @@
 
 <br><br><br><br><br><br><br><br>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Oscarnyo/Oscarnyo/output/github-contribution-grid-snake.svg" />
+<!--   <h2>🐍 My Contributions 🐍</h2> -->
+<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Oscarnyo/Oscarnyo/output/github-contribution-grid-snake.svg" /> -->
 </div>
