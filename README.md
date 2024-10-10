@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A passionate computer science student at UOW Malaysia KDU</h3>
 <br>
-<img align="right" height="160" src="https://github.com/Oscarnyo/Oscarnyo/assets/81134395/b81abb3f-bf52-466b-ac21-5902f20b5177"  />
+<!-- <img align="right" height="160" src="https://github.com/Oscarnyo/Oscarnyo/assets/81134395/b81abb3f-bf52-466b-ac21-5902f20b5177"  /> -->
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
