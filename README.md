@@ -11,7 +11,7 @@
 
 - 👨‍💻 A passionate computer science student at UOW Malaysia KDU
 
-- 📫 How to reach me **oscarnyo728@gmail.com**
+- 📫 How to reach me : **oscarnyo728@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
