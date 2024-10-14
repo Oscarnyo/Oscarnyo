@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **React Native** and implementing for my final year project 
 
 - 👨‍💻 A passionate computer science student at UOW Malaysia KDU
+  
+- 📃 Resume: https://osarnyo728.notion.site/OSCAR-NYO-HONG-11fd511c544f80679f08f491815281ac?pvs=4
 
 - 📫 How to reach me: **oscarnyo728@gmail.com**
 
