@@ -5,9 +5,7 @@
 <br>
 <!-- <img align="right" height="160" src="https://github.com/Oscarnyo/Oscarnyo/assets/81134395/b81abb3f-bf52-466b-ac21-5902f20b5177"  /> -->
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-
-- 🌱 I’m currently learning **React Native** and implementing for my final year project 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
 
 - 👨‍💻 A passionate computer science student at UOW Malaysia KDU
 
