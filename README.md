@@ -7,7 +7,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
 
-- 👨‍💻 A passionate computer science student at UOW Malaysia KDU
+- 👨‍💻 A passionate computer science fresh graduate at UOW Malaysia KDU
 
 - 📫 How to reach me: **oscarnyo728@gmail.com**
 
